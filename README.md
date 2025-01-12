@@ -1,7 +1,5 @@
 # SakhiAI
 
-# SakhiAI
-
 ## Overview
 SakhiAI is an innovative and interactive platform designed to enhance financial literacy and promote economic empowerment. By integrating advanced AI technologies, gamified experiences, and real-time assistance, SakhiAI ensures users can learn and apply financial concepts effectively. This platform is particularly focused on addressing the financial literacy gap in rural and underprivileged communities, with a user-friendly interface tailored for accessibility.
 
